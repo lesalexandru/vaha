@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Vaha</string>
+    <string name="hello_vaha">Hello VAHA</string>
+    <string name="grant_admin">This app must be a device administrator before it can become the device owner.</string>
+</resources>
